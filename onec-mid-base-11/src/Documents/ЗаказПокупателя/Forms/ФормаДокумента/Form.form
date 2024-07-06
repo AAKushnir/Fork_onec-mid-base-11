@@ -645,7 +645,7 @@
             <common>true</common>
           </userVisible>
           <dataPath xsi:type="form:DataPath">
-            <segments>Объект.Товары.Скидка</segments>
+            <segments>1/0:e45e2b26-9d6f-4cbd-a044-788972210d49/0:8e6fe1fb-3f24-49ca-bda2-75d73150c48a</segments>
           </dataPath>
           <handlers>
             <event>OnChange</event>
